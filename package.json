@@ -1,0 +1,15 @@
+{
+  "name": "create-ng-app",
+  "version": "1.0.0",
+  "description": "Creates angular apps",
+  "bin": {
+    "create-ng-app": "./bin/run"
+  },
+  "peerDependencies": {
+    "@angular/cli": "*"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "Ax333l",
+  "license": "MIT"
+}
